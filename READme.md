@@ -1,4 +1,4 @@
-
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/3585adc1-828f-46df-9048-eb1bc2fa5b33" />
 # 📘 Standard Operating Procedure (SOP)
 ## Git Branching Strategy
 
@@ -11,9 +11,9 @@
 
 | Field            | Details                  |
 |------------------|--------------------------|
-| **Author**       | Your Name Here           |
+| **Author**       | ishaan         |
 | **Version**      | 1.0                      |
-| **Last Updated** | YYYY-MM-DD               |
+| **Last Updated** | 2001-01-13               |
 | **Approved By**  | Engineering Lead         |
 
 ---
@@ -167,7 +167,10 @@ Before merging:
 
 Name: Ishan Khan
 
-Document: Git Branching Strategy – SOP![WhatsApp Image 2026-01-07 at 1 34 13 PM](https://github.com/user-attachments/assets/b5812be5-e2f2-4c15-bd39-c37a5e1194b9)
+
+
+
+![WhatsApp Image 2026-01-07 at 1 34 13 PM](https://github.com/user-attachments/assets/1b2d39ba-3175-4520-9bc8-db9f9ae82175)
 
 
 ---
