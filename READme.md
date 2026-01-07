@@ -2,9 +2,10 @@
 # 📘 Standard Operating Procedure (SOP)
 ## Git Branching Strategy
 
-![Git Branching Strategy Diagram](./images/git-branching-strategy.png)
+
 
 ---
+<img width="3397" height="2493" alt="Untitled diagram-2026-01-07-075319" src="https://github.com/user-attachments/assets/e46249e0-12f0-4901-a917-4535af53d3b7" />
 
 ### **Document Information**
 
