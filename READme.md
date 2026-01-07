@@ -1,4 +1,3 @@
-<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/3585adc1-828f-46df-9048-eb1bc2fa5b33" />
 # 📘 Standard Operating Procedure (SOP)
 ## Git Branching Strategy
 
