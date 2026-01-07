@@ -169,7 +169,22 @@ Name: Ishan Khan
 
 
 
-![WhatsApp Image 2026-01-07 at 1 34 13 PM](https://github.com/user-attachments/assets/1b2d39ba-3175-4520-9bc8-db9f9ae82175)
+
+input_image = "WhatsApp Image 2026-01-07 at 1.34.13 PM.jpeg"
+
+output_image = "output_medium.png"
+
+img = Image.open(input_image)
+
+img = img.convert("RGB")
+
+medium_size = (600, 800)
+img = img.resize(medium_size, Image.LANCZOS)
+
+img.save(output_image, format="PNG")
+
+
+
 
 
 ---
