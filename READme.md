@@ -161,11 +161,14 @@ Before merging:
 
 ---
 
-## 11. ✍️ Change History
+ 
+## 11.🧑‍💻 Author Information
+👤 Author
 
-| Version | Date       | Description           | Author       |
-|--------|------------|----------------------|--------------|
-| 1.0    | YYYY-MM-DD | Initial version       | Your Name   |
+Name: Ishan Khan
+
+Document: Git Branching Strategy – SOP![WhatsApp Image 2026-01-07 at 1 34 13 PM](https://github.com/user-attachments/assets/b5812be5-e2f2-4c15-bd39-c37a5e1194b9)
+
 
 ---
 
