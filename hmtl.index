@@ -1,0 +1,48 @@
+# 🌿 GitHub Branching Strategy – Standard Operating Procedure (SOP)
+
+![Git Banner](images/git-banner.png)
+
+---
+
+## 📌 Purpose
+
+This SOP defines a standard GitHub branching strategy to:
+- Maintain clean and stable code
+- Enable parallel development
+- Reduce merge conflicts
+- Ensure smooth production releases
+
+---
+
+## 🧩 Branching Overview
+
+![Branching Strategy Diagram](images/branching-diagram.png)
+
+### 🔑 Branch Types
+
+| Branch Name | Description |
+|------------|------------|
+| `main` | Production-ready code |
+| `develop` | Integration branch for development |
+| `feature/*` | New feature development |
+| `bugfix/*` | Bug fixing |
+| `release/*` | Release preparation |
+| `hotfix/*` | Critical production fixes |
+
+---
+
+## 🌳 Branch Rules & Workflow
+
+### 1️⃣ Main Branch (`main`)
+- Contains stable production code
+- Direct commits are not allowed
+- Updated only via Pull Requests
+
+```bash
+git checkout main
+git pull origin main
+git checkout develop
+git pull origin develop
+feature/user-login
+feature/payment-module
+git checkout -b feature/user-login develop
