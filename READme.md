@@ -169,8 +169,6 @@ Name: Ishan Khan
 
 
 
-![WhatsApp Image 2026-01-07 at 1 55 35 PM](https://github.com/user-attachments/assets/8c4e124f-fbcd-4887-9fd2-30676769e96c)
-
 
 ---
 
